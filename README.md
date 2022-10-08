@@ -2,31 +2,30 @@
 
 - I’m interested in:
   - Tackling the challenges of:
-    - Climate Change
-    - Infectious Disease
-    - Good governance
+    -	:cloud_with_lightning: Climate Change
+    - 🦠 Infectious Disease
   - By applying:
-    - Data science and machine learning
-    - Web development
-    - GIS technologies
+    - :bar_chart: 🤖 Data science and machine learning
+    - :computer: Web development
+    - :world_map: GIS technologies
   - In the fields of:
-    - Clean Energy
-    - Water and Sanitation service provision
-    - Health Research
+    - :dash: :sunny: Clean Energy
+    - :droplet: Water and Sanitation service provision
+    - :dna: Health Research
     
 - I’m currently learning:
   - Software engineering topics at Code Fellows:
     - Fundamentals of web development with JS, CSS, and HTML
-    - The MERN Stack
-    - Advanced software development with Python (Data science, data visualization, and machine learning)
+    - :atom_symbol:The MERN Stack
+    - :snake: Advanced software development with Python (Data science, data visualization, and machine learning)
  
 - My professional background:
-  - 6 years in the US Navy operating and maintaining nuclear reactors.
-  - 2 years at the US Centers for Disease Control and Prevention working on Global Water and Sanitation Projects.
+  - :radioactive: :zap: 6 years in the US Navy operating and maintaining nuclear reactors.
+  - :biohazard: :droplet:  2 years at the US Centers for Disease Control and Prevention working on Global Water and Sanitation Projects.
 
 - My academic background:
-  - BS in Neuroscience, Georgia State University
-  - MPH in Global Health, Certificate in Water, Sanitation, and Hygiene, Emory University
+  - :brain: BS in Neuroscience, Georgia State University
+  - :earth_africa: :hospital:	MPH in Global Health, Certificate in Water, Sanitation, and Hygiene, Emory University
  
 - I’m looking to collaborate on:
   - Combined applications of machine learning and GIS technlogies
