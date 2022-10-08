@@ -32,9 +32,10 @@
   - Basic browser strategy games
  
 - My hobbies include:
-  - Slowly learning Spanish as I travel and live in Latin American countries including Colombia, Chile, Argentina, and Mexico.
-  - Reading sci-fi and fantasy
-  - Sometimes playing strategy games
+  - 🇨🇴 🇨🇱 🇦🇷 🇲🇽 Slowly learning Spanish as I travel and live in Latin American countries including Colombia, Chile, Argentina, and Mexico.
+  - 📖 Reading sci-fi and fantasy
+  - ♟️Sometimes playing strategy games
+  - 🥋 🟦🟦:black_square::blue_square: Training in Brazilian-Jiu-Jitsu when I get the motivation.
 
 - 📫 How to reach me:
   - dgnichols22@gmail.com
