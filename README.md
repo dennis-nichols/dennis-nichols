@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dennis-nichols
-- ![](https://komarev.com/ghpvc/?username=dennis-nichols&color=brightgreen)
 
 - I’m interested in:
   - Tackling the challenges of:
