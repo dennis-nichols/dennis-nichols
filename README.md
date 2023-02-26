@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dennis-nichols
+- 👋 Hi, I’m @dennis-nichols, Python Developer and Data Scientist
 
 - I’m interested in:
   - Tackling the challenges of:
